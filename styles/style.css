@@ -84,7 +84,7 @@
 }
 
 
-.cover{
+.cover {
   display: grid;
   background-image: url("../images/cover.jpg"); /* путь к вашей фотке */
   background-size: cover;
@@ -152,6 +152,7 @@
   font-size: 22px;
   margin: 0;
   line-height: 28px;
+  word-spacing: 80%;
   text-transform: uppercase;
   color: #ffffff;
 }
